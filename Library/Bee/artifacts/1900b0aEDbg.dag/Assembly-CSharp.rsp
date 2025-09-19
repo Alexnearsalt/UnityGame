@@ -374,7 +374,8 @@
 -analyzer:"C:/Program Files/Unity 6000.1.9f1/Editor/Data/Tools/Unity.SourceGenerators/Unity.Properties.SourceGenerator.dll"
 -analyzer:"C:/Program Files/Unity 6000.1.9f1/Editor/Data/Tools/Unity.SourceGenerators/Unity.SourceGenerators.dll"
 -analyzer:"C:/Program Files/Unity 6000.1.9f1/Editor/Data/Tools/Unity.SourceGenerators/Unity.UIToolkit.SourceGenerator.dll"
-"Assets/Scripts/Script.cs"
+"Assets/Scripts/CubeCreate.cs"
+"Assets/Scripts/CubeMovement.cs"
 -langversion:9.0
 /deterministic
 /optimize-
